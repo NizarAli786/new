@@ -1,0 +1,30 @@
+body{
+
+background-image: url(../img/dl11.jpg);
+background-size: cover;
+}
+.red{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ref a{
+color: rgb(136, 3, 58);
+font-family: 'Times New Roman', Times, serif;
+font-size:xx-large ;
+
+}
+
+.der img{
+    border-radius: 30px;
+}
+.blue{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.orge{
+    border-radius: 15px;
+    width: 70px;
+    color: rgb(0, 0, 0);
+    border-color: crimson;
+    background-color: yellowgreen;
+    
+    
+}
